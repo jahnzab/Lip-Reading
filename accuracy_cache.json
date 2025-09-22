@@ -1,0 +1,6 @@
+{
+  "character_accuracy": 99.51,
+  "word_accuracy": 98.67,
+  "character_error_rate": 0.47,
+  "word_error_rate": 1.33
+}
